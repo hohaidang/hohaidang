@@ -1,5 +1,5 @@
 ### Hi there, I'm Dang - Embedded Software Engineer 👋
-### Embedded Software Engineer, enthusiatic in contributing for open-source
+### Embedded Software Engineer, enthusiastic in contributing for open-source
 
 - 🔭 I’m currently working in Japan
 - 🌱 I’m currently learning everything 🤣 (especially embedded system, Linux driver)
@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with beginners to learn embedded system
 - 💬 Ask me about anythings
 - 📫 How to reach me: hohaidang.khtn@gmail.com
-- ⚡ Fun fact: I love to cook, coding and interested in Autonomous Drving, IoT and AI
+- ⚡ Fun fact: I love to cook, coding and interested in Autonomous Driving, IoT and AI
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
