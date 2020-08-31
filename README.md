@@ -11,7 +11,6 @@
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
@@ -33,7 +32,6 @@
 <img align="left" alt="HoHaiDang's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hohaidang&show_icons=true&hide_border=true&theme=nord" />
 
 [linkedin]: https://www.linkedin.com/in/hohaidang/
-[twitter]: https://twitter.com/HaiDang1511
 [cpp]: https://isocpp.org/
 [c_language]: https://en.wikipedia.org/wiki/C_(programming_language)
 [python]: https://www.python.org/
